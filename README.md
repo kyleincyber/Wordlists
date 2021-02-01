@@ -1,3 +1,3 @@
 # Wordlists
 Wordlists I've collected.
-This collection includes collections from other Githubs.
+This collection includes other collections from other Githubs.
